@@ -1,0 +1,1 @@
+# Credential Management Scripts\n\nThis directory contains tools for managing account credentials:\n\n- `update_credentials.sh` - Interactive script to update git credentials\n- `CREDENTIALS.md` - Documentation for credential management\n\nSee CREDENTIALS.md for detailed usage instructions.
